@@ -1,2 +1,2 @@
 # test
-repo pertama ku
+pertama kali belajar repo
